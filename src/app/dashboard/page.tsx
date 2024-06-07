@@ -40,7 +40,7 @@ const ScreenDataCard = ({ title, value }: { title: string; value: any }) => {
 export default function DashboardPage() {
   return (
     <div className="flex">
-      {/* <checking the pushing things /> */}
+      {/* <checking the pushing things one more time/> */}
       <div className="w-full">
         <div className="border border-b-2 p-2 w-full font-bold text-xl">
           DASHBOARD
